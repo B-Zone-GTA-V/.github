@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-    <a href="https://discord.gg/BhXSwqG8NC">
+    <a href="https://discord.gg/BhXSwqG8NC" target="_blank">
         <img src="https://img.shields.io/discord/812307333811535902?label=Discord&color=5865F2" />
     </a>
-    <a href="https://github.com/orgs/B-Zone-GTA-V/projects/1">
-        <img src="https://img.shields.io/badge/github-project-green" />
+    <a href="https://github.com/orgs/B-Zone-GTA-V/projects/1" target="_blank">
+        <img src="https://img.shields.io/badge/project-tracker-green" />
     </a>
 </p>
 
