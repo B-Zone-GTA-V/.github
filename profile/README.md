@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/8IeArxS.png" alt="ragebz" width="275px">
+    <img src="https://i.imgur.com/kDRrK3x.png" alt="ragebz">
     <h1 align="center">B-Zone V Project - RolePlay <a href="https://rage.mp/">RAGEMP</a> Server</h1>
 </p>
 
