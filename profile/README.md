@@ -13,11 +13,11 @@
     <a href="https://rage-multiplayer-b-zone-wiki.gitbook.io/b-zone-v-wiki/ragemp/rage-multiplayer" target="_blank">
         <img src="https://img.shields.io/badge/server-wiki-blue" />
     </a>
-    <a href="https://v.b-zone.ro/#/updates-screen" target="_blank">
+    <a href="https://beta.b-zone.ro/updates" target="_blank">
         <img src="https://img.shields.io/badge/update-log-purple" />
     </a>
 </p>
 
 <p align="center">
-    <a href="http://v.b-zone.ro">Visit our website</a>
+    <a href="https://beta.b-zone.ro">Visit our website</a>
 </p>
