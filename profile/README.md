@@ -10,7 +10,7 @@
     <a href="https://github.com/orgs/B-Zone-GTA-V/projects/5" target="_blank">
         <img src="https://img.shields.io/badge/project-tracker-green" />
     </a>
-    <a href="https://rage-multiplayer-b-zone-wiki.gitbook.io/b-zone-v-wiki/ragemp/rage-multiplayer" target="_blank">
+    <a href="https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/" target="_blank">
         <img src="https://img.shields.io/badge/server-wiki-blue" />
     </a>
     <a href="https://v.b-zone.ro/updates" target="_blank">
