@@ -56,5 +56,5 @@
 <br/>
 
 <p align="center">
-  ✨ Powered by the <b>B-Zone V Community</b> ✨
+  ✨ Powered by the <b>B-Zone V Dev Team</b> ✨
 </p>
