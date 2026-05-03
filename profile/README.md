@@ -17,7 +17,7 @@
   <a href="https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/" target="_blank">
     <img src="https://img.shields.io/badge/Server-Wiki-blue?logo=github&logoColor=white" />
   </a>
-  <a href="https://v.b-zone.ro/updates" target="_blank">
+  <a href="https://gta5.ro/updates" target="_blank">
     <img src="https://img.shields.io/badge/Update-Log-purple?logo=files&logoColor=white" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h2 align="center">🌍 <a href="https://v.b-zone.ro">Visit our official website</a> 🌍</h2>
+<h2 align="center">🌍 <a href="https://gta5.ro">Visit our official website</a> 🌍</h2>
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 ## 📚 Useful Links
 📖 [Wiki & Guides](https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/)  
-📝 [Update Log](https://v.b-zone.ro/updates)  
+📝 [Update Log](https:/gta5.ro/updates)  
 💬 [Join our Discord](https://b-zone.ro/rage)  
 
 <br/>
