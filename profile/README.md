@@ -2,10 +2,10 @@
   <img src="https://i.imgur.com/kDRrK3x.png" alt="B-Zone RolePlay Logo" width="150"/>
 </p>
 
-<h1 align="center">B-Zone V RolePlay - <a href="https://rage.mp/">RAGEMP</a> Server</h1>
+<h1 align="center">B-Zone V RolePlay - FiveM Server</h1>
 
 <p align="center">
-  <i>One of the most immersive RolePlay experiences on RAGE Multiplayer!</i>
+  <i>One of the most immersive RolePlay experiences on FiveM Multiplayer!</i>
 </p>
 
 <br/>
@@ -41,7 +41,7 @@
 <br/>
 
 ## 🚀 About the Server
-✨ Based on **RAGE Multiplayer (RAGEMP)**  
+✨ Based on **FiveM Multiplayer (FiveM)**  
 ✨ Realistic and engaging **RolePlay mechanics**  
 ✨ Constant **updates & new features**  
 ✨ Large, friendly, and active **community**  
