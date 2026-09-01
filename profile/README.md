@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.imgur.com/kDRrK3x.png" alt="B-Zone RolePlay Logo" width="150"/>
+  <img src="https://i.imgur.com/gAXcdaB.png" alt="B-Zone RolePlay Logo" width="150"/>
 </p>
 
 <h1 align="center">B-Zone V RolePlay - FiveM Server</h1>
 
 <p align="center">
-  <i>One of the most immersive RolePlay experiences on FiveM Multiplayer!</i>
+  <i>One of the most immersive RolePlay experiences on <a href="https://fivem.net">FiveM</a> Multiplayer!</i>
 </p>
 
 <br/>
